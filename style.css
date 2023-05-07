@@ -13,6 +13,9 @@ body {
 button {
   font-size: 7px;
 }
+button:hover {
+  cursor: pointer;
+}
 
 #main-content {
   position: relative;
